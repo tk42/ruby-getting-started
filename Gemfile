@@ -30,7 +30,7 @@ gem 'sdoc',          group: :doc
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
